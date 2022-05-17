@@ -15,4 +15,3 @@
 # vendor/
 vendor/
 orm.db
-cmd_test/orm.db
