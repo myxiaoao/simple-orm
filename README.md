@@ -8,7 +8,7 @@
 - [x] 链式操作与更新删除
 - [x] 实现钩子(Hooks)
 - [x] 支持事务(Transaction)
-- [ ] 数据库迁移
+- [x] 数据库迁移(Migrate)
 
 ## License
 
